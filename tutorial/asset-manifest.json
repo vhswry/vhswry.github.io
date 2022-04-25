@@ -1,4 +1,5 @@
 {
+  "homepage": ".",
   "files": {
     "main.css": "/static/css/main.7bae3fac.css",
     "main.js": "/static/js/main.d002bff5.js",
